@@ -1,6 +1,7 @@
 
 
 # Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+## About me
 
 I`m DevOps Engineer with more than 4 years of experience in implementing/designing/managing in deploying infrastructure projects.
 A passionate, highly motivated, and self-taught IT Professional with a DevOps mindset.
@@ -11,7 +12,6 @@ Management, Cloud Architecture, Application Containerize and Orchestrates with K
 <a href="https://www.linkedin.com/in/moein-shahcheraghi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 <br/>
 
-**About me**
 
 - 💼 Devops Engineer  at [Telewebion](https://telewebion.com/)
 
