@@ -19,7 +19,7 @@ Management, Cloud Architecture, Application Containerize and Orchestrates with K
 
 ### DevOps Skills:
 
-- Bash - Python
+- Bash - Python - golang
 - Ansible 
 - Terraform 
 - Docker - Docker-compose
@@ -28,11 +28,22 @@ Management, Cloud Architecture, Application Containerize and Orchestrates with K
 - Istio - Cilium
 - Kong API management - Traefik - ALB controller
 - Jenkins - ArgoCD - Gitlab CI/CD   
-- EKS - ECS - Lambda - RDS - VPC - Beanstalk - Autoscaling - SSM - KMS - ACM
+- EKS - ECS - Lambda - RDS - VPC - Beanstalk - Autoscaling 
 - Hashicorp Consul - Hashicorp Vault
 - Redis - Kafka
 - Grafana - Prometheus - ELK 
-- Keycloak - Velero 
+- Keycloak - Velero
+- Nginx - Cdn 
+- Network 
+
+
+
+
+
+### 🛠️ Technologies
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,cloudflare,gcp,go,gitlab,grafana,jenkins,kafka,linux,prometheus,py,rabbitmq,redis,regex,nginx,mysql,mongodb,postgres,docker,git)](https://skillicons.dev)
+
+
 
 
 ### Cloud Skills:
@@ -57,3 +68,4 @@ Management, Cloud Architecture, Application Containerize and Orchestrates with K
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+-
