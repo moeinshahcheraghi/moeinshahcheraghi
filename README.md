@@ -69,3 +69,9 @@ Management, Cloud Architecture, Application Containerize and Orchestrates with K
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 -
+
+
+### 💻 GitHub Profile Stats
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="moeinshahcheraghi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=moeinshahcheraghi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=F85D7F" height="192px"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="moeinshahcheraghi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinshahcheraghi&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=F85D7F&hide=Jupyter%20Notebook" height="192px"/></a>
