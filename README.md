@@ -45,7 +45,7 @@ Management, Cloud Architecture, Application Containerize and Orchestrates with K
 ### Back-End Skills:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=2231A2)
-![Golang](https://img.shields.io/badge/lauguage-go-blue?logo=Ionic&logoColor=white)
+![Golang](https://img.shields.io/badge/go-blue?logo=Ionic&logoColor=white)
 
 
 ### IDEs:
