@@ -13,7 +13,7 @@ Management, Cloud Architecture, Application Containerize and Orchestrates with K
 <br/>
 
 
-- 💼 Devops Engineer  at [Telewebion](https://telewebion.com/)
+- 💼 Devops Engineer  
 
 ## Core Competencies and Skills
 
